@@ -2,6 +2,10 @@
 
 A bold and creative personal portfolio for Nomanguni, a developer based in Johannesburg.
 
+## 📸 Screenshot
+
+![Portfolio Screenshot](./portfolio.png)
+
 ## 💡 Features
 
 - Vibrant color scheme and unique typography
@@ -19,13 +23,35 @@ A bold and creative personal portfolio for Nomanguni, a developer based in Johan
 ## 🚀 Getting Started
 
 1. Download the repo or extract the zip
-2. Open `index.html` in your browser
 
-## 🧑‍🎨 Credits
+**Clone the Repository**
+   ```
+   git clone https://github.com/Nomahk25/nomanguni-portfolio.git
+   cd nomanguni-portfolio
+```
+3. Open `index.html` in your browser
 
-Made with love by Nomanguni  
-📍 Johannesburg, South Africa
+## 💡 Inspiration
+
+This portfolio is inspired by bold, minimal developer landing pages with a touch of personality. I wanted something that reflects creativity while staying professional.
+
+## 🤝 Contributing
+
+Feel free to fork the project, improve it, and submit pull requests!
+
+Ideas:
+
+- Add a dark/light mode toggle
+- Integrate a contact form 
+- Animate section transitions
+- Add downloadable resume
 
 ## 📬 Contact
 
-Email: nomanguni@example.com
+Made with love by Nomanguni Khumalo
+📍 Johannesburg, South Africa
+Email: nomangunik25@gmail.com
+
+## 📜 License
+
+This project is open source and available under the MIT License.
